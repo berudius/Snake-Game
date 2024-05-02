@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(148,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(149,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(150,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(161,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(165,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(166,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(184,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(184,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(265,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(265,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(279,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(279,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Esdiaydi\Desktop\Project1\Project1\main.cpp(360,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Esdiaydi\Desktop\Project1\x64\Debug\Project1.exe
